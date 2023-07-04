@@ -8,7 +8,7 @@
 
 body {
     font-family: lora, serif;
-    color: #4d4d4git ad .d;
+    color: #4d4d4d;
 }
 
 /* heading and logo */
@@ -92,29 +92,24 @@ h2 {
     text-align: center;
     font-size: 200%;
     padding-top: 10px;
-    /* text-decoration: underline; */
 }
 
 #yoga-exercise h2,
 #yoga-therapy h2 {
-    padding-top: 30px;
     width: 50%;
-    padding-left: 25%;
-    padding-right: 25%;
+    padding: 30px 25% 0 25%;
+
 }
 
 #yoga-exercise p,
 #yoga-therapy p {
-    padding-top: 10px;
-    padding-bottom: 20px;
+    padding: 10px 25% 30px 25%;
     width: 50%;
-    padding-left: 25%;
-    padding-right: 25%;
 }
 
 #yoga-exercise-image {
     background: url(../images/yoga-exercise.jpg) no-repeat center center;
-    height: 650px;
+    height: 600px;
     width: 100%;
 }
 
@@ -122,4 +117,66 @@ h2 {
     background: url(../images/yoga-therapy.jpg) no-repeat center center;
     height: 600px;
     width: 100%;
+}
+
+/* meeting times and location */
+#meetings {
+    height: 300px;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#meetings h2 {
+    text-align: center;
+    font-size: 200%;
+    padding-top: 10px;
+}
+
+
+#meetings div {
+    width: 16.6%;
+    float: left;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.join {
+    background-color: #4d4d4d;
+    border-radius: 5px;
+    font-size: 17px;
+    padding: 6px 18px;
+    color: rgb(243, 244, 245);
+    text-decoration: none;
+}
+
+.join i {
+    color: rgb(243, 244, 245);
+}
+
+/* footer */
+
+#contact {
+    background-color: #4d4d4d;
+    height: 100px;
+}
+
+#contact p {
+    color: rgb(243, 244, 245);
+    padding-top: 10px;
+    text-align: center;
+}
+
+#socials {
+    text-align: center;
+}
+
+#socials li {
+    display: inline;
+}
+
+#socials i {
+    color: rgb(243, 244, 245);
+    padding: 1%;
+    font-size: 200%;
 }
