@@ -180,3 +180,48 @@ h2 {
     padding: 1%;
     font-size: 200%;
 }
+
+/* Media queries */
+
+/* For larger to medium size from 1100px wide and down */
+@media screen and (max-width: 1100px) {
+    #yoga-types {
+        height: 1650px;
+    }
+
+    #meetings {
+        height: 450px;
+    }
+
+    #meetings div {
+        width: 33%;
+    }
+}
+
+/* For larger to medium size from 950px wide and down */
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        line-height: 25px
+    }
+
+    #welcome-note {
+        clear: both;
+    }
+
+    #yoga-types {
+        height: 1700px;
+    }
+
+    #meetings {
+        height: 900px;
+        clear: both;
+    }
+
+    #meetings div {
+        width: 100%;
+    }
+}
