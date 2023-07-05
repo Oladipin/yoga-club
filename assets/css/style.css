@@ -23,7 +23,7 @@ h2 {
 }
 
 #logo {
-    font-size: 250%;
+    font-size: 200%;
     margin-left: 20px;
     text-decoration: none;
     float: left;
@@ -33,14 +33,14 @@ h2 {
 
 #menu {
     text-transform: capitalize;
-    font-size: 120%;
+    font-size: 110%;
     text-align: right;
     font-family: Montserrat, sans-serif;
 }
 
 #menu li {
     display: inline;
-    padding-right: 20px;
+    margin-right: 20px;
 }
 
 #menu a {
@@ -53,20 +53,24 @@ h2 {
     line-height: 70px;
 }
 
-/* welcome section */
-#welcome {
-    height: 900px;
+#menu a:hover {
+    color: chocolate;
 }
+
+/* welcome section */
+/* #welcome {
+    height: 900px;
+} */
 
 #welcome-note {
     width: 60%;
-    height: 150px;
-    padding: 70px 20% 0 20%
+    /* height: 150px; */
+    padding: 70px 20% 20px 20%
 }
 
 #welcome-note h2 {
     text-align: center;
-    font-size: 200%;
+    font-size: 150%;
 }
 
 #welcome-note p {
@@ -84,14 +88,14 @@ h2 {
 /* forms of yoga session*/
 
 #yoga-types {
-    height: 1600px;
+    /* height: 1600px; */
     background-color: rgb(243, 244, 245);
 }
 
 #yoga-forms {
     text-align: center;
-    font-size: 200%;
-    padding-top: 10px;
+    font-size: 150%;
+    padding-top: 30px;
 }
 
 #yoga-exercise h2,
@@ -109,13 +113,14 @@ h2 {
 
 #yoga-exercise-image {
     background: url(../images/yoga-exercise.jpg) no-repeat center center;
-    height: 600px;
+    height: 400px;
     width: 100%;
+    border-radius: 20px;
 }
 
 #yoga-therapy-image {
     background: url(../images/yoga-therapy.jpg) no-repeat center center;
-    height: 600px;
+    height: 400px;
     width: 100%;
 }
 
@@ -125,11 +130,12 @@ h2 {
     width: 80%;
     padding-left: 10%;
     padding-right: 10%;
+    padding-top: 30px;
 }
 
 #meetings h2 {
     text-align: center;
-    font-size: 200%;
+    font-size: 150%;
     padding-top: 10px;
 }
 
@@ -150,8 +156,8 @@ h2 {
     text-decoration: none;
 }
 
-.join i {
-    color: rgb(243, 244, 245);
+.join:hover {
+    color: chocolate;
 }
 
 /* footer */
@@ -181,13 +187,40 @@ h2 {
     font-size: 200%;
 }
 
+#socials i:hover {
+    color: chocolate
+}
+
+/* explore page */
+
+.gallery h2 {
+    text-transform: capitalize;
+    text-align: center;
+    padding: 30px 0;
+    font-size: 200%;
+}
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 3px;
+
+
+}
+
+#photos>img {
+    width: 100%;
+}
+
 /* Media queries */
 
 /* For larger to medium size from 1100px wide and down */
+
 @media screen and (max-width: 1100px) {
-    #yoga-types {
+    /* #yoga-types {
         height: 1650px;
-    }
+    } */
 
     #meetings {
         height: 450px;
@@ -196,32 +229,42 @@ h2 {
     #meetings div {
         width: 33%;
     }
+
+    #photos {
+        column-count: 3;
+    }
 }
 
+
 /* For larger to medium size from 950px wide and down */
+
 @media screen and (max-width: 950px) {
     #menu {
         clear: left;
         float: left;
-        margin-left: 20px;
+        margin-left: 10px;
         margin-bottom: 20px;
-        line-height: 25px
+        line-height: 20px
     }
 
     #welcome-note {
         clear: both;
     }
 
-    #yoga-types {
-        height: 1700px;
-    }
+    /* #yoga-types {
+        height: 1850px;
+    } */
 
     #meetings {
-        height: 900px;
-        clear: both;
+        height: 600px;
+        clear: both
     }
 
     #meetings div {
-        width: 100%;
+        width: 50%;
+    }
+
+    #photos {
+        column-count: 2;
     }
 }
