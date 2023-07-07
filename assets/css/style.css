@@ -58,6 +58,7 @@ h2 {
 }
 
 /* welcome section */
+
 /* #welcome {
     height: 900px;
 } */
@@ -116,7 +117,6 @@ h2 {
     background: url(../images/yoga-exercise.jpg) no-repeat center center;
     height: 400px;
     width: 100%;
-    border-radius: 20px;
 }
 
 #yoga-therapy-image {
@@ -126,6 +126,8 @@ h2 {
 }
 
 /* meeting times and location */
+
+
 #meetings {
     height: 300px;
     width: 80%;
@@ -271,17 +273,23 @@ h2 {
 /* For larger to medium size from 950px wide and down */
 
 @media screen and (max-width: 950px) {
+
     #menu {
         clear: left;
         float: left;
-        margin-left: 10px;
+        margin-left: 2px;
         margin-bottom: 20px;
-        line-height: 20px
+        line-height: 20px;
     }
+
+    /* #menu li {
+        margin-right: 5px;
+    } */
 
     #welcome-note {
         clear: both;
     }
+
 
     /* #yoga-types {
         height: 1850px;
@@ -300,7 +308,51 @@ h2 {
         column-count: 2;
     }
 
+
+    .gallery {
+        clear: both;
+    }
+
     .signup-form {
         margin-top: 80px;
+    }
+
+}
+
+/* For larger to medium size from 450px wide and down */
+
+@media screen and (max-width: 450px) {
+    #menu {
+        font-size: 100%;
+    }
+
+    #menu li {
+        margin-right: 5px;
+    }
+
+    #meetings {
+        height: 900px;
+        clear: both
+    }
+
+    #meetings div {
+        width: 100%;
+    }
+
+    .signup-form {
+        left: 0;
+    }
+
+    #welcome-note {
+        padding-top: 30px;
+    }
+
+    .gallery h2 {
+        font-size: 150%;
+        padding: 10px 0;
+    }
+
+    #logo {
+        font-size: 150%;
     }
 }
