@@ -36,6 +36,8 @@ Users of this website can find useful information as to what the club is about, 
   1. yoga as exercise and
   2. yoga as therapy
 
+  ![Forms of yoga we take](documentation/Forms-of-Yoga.PNG)
+
 - Our meeting times and location
   - This section contains the meeting times and locations and a clickable button "join us now!".
   - the join us now button redirect users to the sign up page.
@@ -62,7 +64,9 @@ Users of this website can find useful information as to what the club is about, 
 
   ![Sign Up page form](documentation/Sign-up-page.PNG)
 
-  ### Testing
+### Testing
+
+---
 
 - I tested the page works on different browsers: Google chrome. Moxilla Firefox and Microsoft edge.
 
@@ -73,6 +77,8 @@ Users of this website can find useful information as to what the club is about, 
 * I tested the form inputs works properly and it requires data entry in all fields.
 
 ### Validator Testing
+
+---
 
 - HTML
   - No error was found when validated with the official W3C HTML validator.
@@ -87,6 +93,8 @@ Users of this website can find useful information as to what the club is about, 
 
 ### Deployment
 
+---
+
 - The site was deployed in GitHub pages and the steps of deployment are as follows:
 
   - In the GitHub repository, click on the desired repository
@@ -95,4 +103,21 @@ Users of this website can find useful information as to what the club is about, 
   - From the source dropdown, select deploy from branch
   - And select main from the branch dropdown and save
 
-  The live link maybe found here -
+  The live link maybe found here - [Yoga For Women](https://www.google.com)
+
+### Credits
+
+---
+
+**Contents**
+
+- Definiton of yoga as therapy was taken from [Cleveland Clinic](https://my.clevelandclinic.org/health/treatments/24889-yoga-therapy#:~:text=Yoga%20therapy%20is%20a%20mind,treatment%20by%20a%20healthcare%20provider.)
+- Definition of yoga as exercise was taken from [Wikipedia](https://en.wikipedia.org/wiki/Yoga_as_exercise)
+
+* The code for the photo gallery section of the explore page was taken from the [Love running](https://oladipin-love-running-8hrz8ibhhv.us2.codeanyapp.com/#/workspaces/Love-running) Project.
+
+### Media
+
+---
+
+- All images in this project was taken from [Pexels](https://pexels.com)
