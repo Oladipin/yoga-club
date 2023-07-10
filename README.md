@@ -59,7 +59,7 @@ Users of this website can find useful information as to what the club is about, 
 
 * Sign Up Page
 
-  - This page is where important information are collected from users who decides to join th club.
+  - This page is where important information are collected from users who decide to join th club.
   - It collects the first name, last name, email address, and mobile number of interested users.
 
   ![Sign Up page form](documentation/Sign-up-page.PNG)
@@ -85,7 +85,10 @@ Users of this website can find useful information as to what the club is about, 
 - CSS
   - No error was found when validated with the official jigsaw CSS validator.
 - Accessibility
+
   - I confirmed that the colors and fonts have the right contrast and are therefore easy to read and access by running it through the lighthouse in devtools.
+
+  ![lighthouse Devtool perfomance result](documentation/lighthouse-Devtools.PNG)
 
 ### Bugs
 
