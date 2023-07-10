@@ -1,39 +1,104 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-Welcome,
-
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
-
-## Codeanywhere Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Yoga For Women
 
 ---
 
-Happy coding!
+The Yoga For Women is a website for women who are interested in participating in yoga in Umea, Sweden. This is a community where we encourage women to be actively involved in yoga either as a form of exercise or as a form of therapy.
+
+Users of this website can find useful information as to what the club is about, meeting days, time and location, social media contacts and explore page for seeing some activities in pictures and videos.
+
+![Display of website on all screen sizes](documentation/all-screen-sizes.PNG)
+
+**Features**
+
+---
+
+- The Haeder
+
+  - The header contains the name of the club "Yoga For Women" and the navigation links to take users to different pages and sections of the website.
+  - It has a default background and a font of Oswald.
+
+- The navigation
+  - The navigation has the club logo on the right and the menu on the left of the header.
+  - The menu in the navigation has four clickable links that takes users to different pages and sections of the website.
+
+![Header and navigation of the website](documentation/header.PNG)
+
+- Welcome Section
+  - The welcome section contains two parts
+
+1. A welcome note to describe and introduce users to the club
+2. A cover image which shows some ladies in a yoga session.
+
+![Picture of five ladies during a yoga session](documentation/welcome.PNG)
+
+- Our forms of yoga
+
+  - The our forms of yoga section clearly explains to users the two forms of yoga that the club engages in which are:
+
+  1. yoga as exercise and
+  2. yoga as therapy
+
+- Our meeting times and location
+  - This section contains the meeting times and locations and a clickable button "join us now!".
+  - the join us now button redirect users to the sign up page.
+
+![Meeting times and locations](documentation/meeting-times.PNG)
+
+- The Footer
+  - The footer is the same as the contact us section and it implies that when users click on the contact us in the navigation, it redirects to the footer.
+  - The footer contains all social media links of the club and the copyright property.
+
+![The footer with all social media link](documentation/footer_contact-us.PNG)
+
+- Explore Page
+
+  - This pages take users to the video and picture gallery.
+  - The pages shows users pictures and videos of some activities of the club.
+
+  ![Explore page](documentation/Explore-page.PNG)
+
+* Sign Up Page
+
+  - This page is where important information are collected from users who decides to join th club.
+  - It collects the first name, last name, email address, and mobile number of interested users.
+
+  ![Sign Up page form](documentation/Sign-up-page.PNG)
+
+  **Testing**
+
+---
+
+- I tested the page works on different browsers: Google chrome. Moxilla Firefox and Microsoft edge.
+
+* I tested the pages are responsive and works well on different screen sizes: Desktop, Laptop, Tablet, Mobile phone.
+
+- I tested all navigation work perfectly and redirects users to the right pages/sections.
+
+* I tested the form inputs works properly and it requires data entry in all fields.
+
+**Validator Testing**
+
+---
+
+- HTML
+  - No error was found when validated with the official W3C HTML validator.
+- CSS
+  - No error was found when validated with the official jigsaw CSS validator.
+- Accessibility
+  - I confirmed that the colors and fonts have the right contrast and are therefore easy to read and access by running it through the lighthouse in devtools.
+
+**Bugs**
+
+- No bugs
+
+**Deployment**
+
+- The site was deployed in GitHub pages and the steps of deployment are as follows:
+
+  - In the GitHub repository, click on the desired repository
+  - Navigate to the settings tab
+  - Navigate to pages
+  - From the source dropdown, select deploy from branch
+  - And select main from the branch dropdown and save
+
+  The live link maybe found here -
