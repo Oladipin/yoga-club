@@ -1,7 +1,5 @@
 ## Yoga For Women
 
----
-
 The Yoga For Women is a website for women who are interested in participating in yoga in Umea, Sweden. This is a community where we encourage women to be actively involved in yoga either as a form of exercise or as a form of therapy.
 
 Users of this website can find useful information as to what the club is about, meeting days, time and location, social media contacts and explore page for seeing some activities in pictures and videos.
@@ -9,8 +7,6 @@ Users of this website can find useful information as to what the club is about, 
 ![Display of website on all screen sizes](documentation/all-screen-sizes.PNG)
 
 **Features**
-
----
 
 - The Haeder
 
@@ -66,8 +62,6 @@ Users of this website can find useful information as to what the club is about, 
 
   **Testing**
 
----
-
 - I tested the page works on different browsers: Google chrome. Moxilla Firefox and Microsoft edge.
 
 * I tested the pages are responsive and works well on different screen sizes: Desktop, Laptop, Tablet, Mobile phone.
@@ -77,8 +71,6 @@ Users of this website can find useful information as to what the club is about, 
 * I tested the form inputs works properly and it requires data entry in all fields.
 
 **Validator Testing**
-
----
 
 - HTML
   - No error was found when validated with the official W3C HTML validator.
