@@ -6,7 +6,7 @@ Users of this website can find useful information as to what the club is about, 
 
 ![Display of website on all screen sizes](documentation/all-screen-sizes.PNG)
 
-**Features**
+### Features
 
 - The Haeder
 
@@ -60,7 +60,7 @@ Users of this website can find useful information as to what the club is about, 
 
   ![Sign Up page form](documentation/Sign-up-page.PNG)
 
-  **Testing**
+  ### Testing
 
 - I tested the page works on different browsers: Google chrome. Moxilla Firefox and Microsoft edge.
 
@@ -70,7 +70,7 @@ Users of this website can find useful information as to what the club is about, 
 
 * I tested the form inputs works properly and it requires data entry in all fields.
 
-**Validator Testing**
+### Validator Testing
 
 - HTML
   - No error was found when validated with the official W3C HTML validator.
@@ -79,11 +79,11 @@ Users of this website can find useful information as to what the club is about, 
 - Accessibility
   - I confirmed that the colors and fonts have the right contrast and are therefore easy to read and access by running it through the lighthouse in devtools.
 
-**Bugs**
+### Bugs
 
 - No bugs
 
-**Deployment**
+### Deployment
 
 - The site was deployed in GitHub pages and the steps of deployment are as follows:
 
