@@ -8,6 +8,8 @@ Users of this website can find useful information as to what the club is about, 
 
 ### Features
 
+---
+
 - The Haeder
 
   - The header contains the name of the club "Yoga For Women" and the navigation links to take users to different pages and sections of the website.
