@@ -13,7 +13,7 @@ Users of this website can find useful information as to what the club is about, 
 - The Haeder
 
   - The header contains the name of the club "Yoga For Women" and the navigation links to take users to different pages and sections of the website.
-  - It has a default background and a font of Oswald.
+  - It has a default background and a font of Montserrat.
 
 - The navigation
   - The navigation has the club logo on the right and the menu on the left of the header.
@@ -52,14 +52,14 @@ Users of this website can find useful information as to what the club is about, 
 
 - Explore Page
 
-  - This pages take users to the video and picture gallery.
-  - The pages shows users pictures and videos of some activities of the club.
+  - This page take users to the video and picture gallery.
+  - The page shows users pictures and videos of some activities of the club.
 
   ![Explore page](documentation/Explore-page.PNG)
 
 * Sign Up Page
 
-  - This page is where important information are collected from users who decide to join th club.
+  - This page is where important information are collected from users who decide to join the club.
   - It collects the first name, last name, email address, and mobile number of interested users.
 
   ![Sign Up page form](documentation/Sign-up-page.PNG)
@@ -106,7 +106,7 @@ Users of this website can find useful information as to what the club is about, 
   - From the source dropdown, select deploy from branch
   - And select main from the branch dropdown and save
 
-  The live link maybe found here - [Yoga For Women](https://www.google.com)
+  The live link maybe found here - [Yoga For Women](https://oladipin.github.io/yoga-for-women)
 
 ### Credits
 

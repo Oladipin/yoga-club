@@ -59,13 +59,8 @@ h2 {
 
 /* welcome section */
 
-/* #welcome {
-    height: 900px;
-} */
-
 #welcome-note {
     width: 60%;
-    /* height: 150px; */
     padding: 70px 20% 20px 20%
 }
 
@@ -79,8 +74,6 @@ h2 {
     font-size: 110%;
 }
 
-/* picture was taken from pexesl.com */
-
 #welcome-image {
     background: url(../images/yoga-cover.jpg) no-repeat center center;
     width: 100%;
@@ -90,7 +83,6 @@ h2 {
 /* forms of yoga session*/
 
 #yoga-types {
-    /* height: 1600px; */
     background-color: rgb(243, 244, 245);
 }
 
@@ -212,15 +204,13 @@ h2 {
     line-height: 0;
     column-count: 4;
     column-gap: 3px;
-
-
 }
 
 #photos>img {
     width: 100%;
 }
 
-#videos div {
+#motion div {
     width: 50%;
     float: left;
     margin-bottom: 30px;
@@ -254,18 +244,16 @@ h2 {
     height: 30px;
     margin: 5px 10px 20px 0;
     border-radius: 5px;
-    font-family: Lato, sans-serif;
+    font-family: Lora, serif;
     font-size: 100%;
 }
 
 /* Media queries */
 
+
 /* For larger to medium size from 1100px wide and down */
 
 @media screen and (max-width: 1100px) {
-    /* #yoga-types {
-        height: 1650px;
-    } */
 
     #meetings {
         height: 450px;
@@ -279,11 +267,7 @@ h2 {
         column-count: 3;
     }
 
-    /* #videos video {
-        width: 400px;
-    } */
-
-    #videos div {
+    #motion div {
         width: 100%;
     }
 }
@@ -301,18 +285,9 @@ h2 {
         line-height: 20px;
     }
 
-    /* #menu li {
-        margin-right: 5px;
-    } */
-
     #welcome-note {
         clear: both;
     }
-
-
-    /* #yoga-types {
-        height: 1850px;
-    } */
 
     #meetings {
         height: 600px;
@@ -326,15 +301,6 @@ h2 {
     #photos {
         column-count: 2;
     }
-
-    /* 
-    #videos div {
-        width: 100%;
-    } */
-
-    /* #videos video {
-        width: 300px;
-    } */
 
     .gallery {
         clear: both;
@@ -384,7 +350,7 @@ h2 {
         padding: 10px 0;
     }
 
-    #videos video {
+    #motion video {
         width: 300px;
     }
 }
