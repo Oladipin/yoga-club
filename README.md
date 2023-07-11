@@ -106,7 +106,7 @@ Users of this website can find useful information as to what the club is about, 
   - From the source dropdown, select deploy from branch
   - And select main from the branch dropdown and save
 
-  The live link maybe found here - [Yoga For Women](https://oladipin.github.io/yoga-for-women)
+  The live link can be found here - [Yoga For Women](https://oladipin.github.io/yoga-for-women)
 
 ### Credits
 
