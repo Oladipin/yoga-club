@@ -1,5 +1,9 @@
 ## Yoga For Women
 
+Live -https://oladipin.github.io/yoga-for-women
+
+Source - https://github.com/oladipin/yoga-for-women
+
 The Yoga For Women is a website for women who are interested in participating in yoga in Umea, Sweden. This is a community where we encourage women to be actively involved in yoga either as a form of exercise or as a form of therapy.
 
 Users of this website can find useful information as to what the club is about, meeting days, time and location, social media contacts and explore page for seeing some activities in pictures and videos.
@@ -36,7 +40,7 @@ Users of this website can find useful information as to what the club is about, 
   1. Yoga as exercise
   2. Yoga as therapy
 
-  ![Forms of yoga we take](documentation/Forms-of-Yoga.PNG)
+  ![Forms of yoga we take](documentation/forms-of-yoga.PNG)
 
 - Our meeting times and locations
   - This section contains the meeting times and locations and a clickable button "join us now!".
@@ -55,14 +59,14 @@ Users of this website can find useful information as to what the club is about, 
   - This page take users to the video and picture gallery.
   - The page shows users pictures and videos of some activities of the club.
 
-  ![Explore page](documentation/Explore-page.PNG)
+  ![Explore page](documentation/explore-page.PNG)
 
 * Sign Up Page
 
   - This page is where important information are collected from users who decide to join the club.
   - It collects the first name, last name, email address, and mobile number of interested users.
 
-  ![Sign Up page form](documentation/Sign-up-page.PNG)
+  ![Sign Up page form](documentation/sign-up-page.PNG)
 
 ### Testing
 
