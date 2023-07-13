@@ -16,7 +16,7 @@ Users of this website can find useful information as to what the club is about, 
   - It has a default background and a font of Montserrat.
 
 - The navigation
-  - The navigation has the club logo on the right and the menu on the left of the header.
+  - The navigation has the club logo on the left and the menu on the right of the header.
   - The menu in the navigation has four clickable links that takes users to different pages and sections of the website.
 
 ![Header and navigation of the website](documentation/header.PNG)
@@ -24,7 +24,7 @@ Users of this website can find useful information as to what the club is about, 
 - Welcome Section
   - The welcome section contains two parts
 
-1. A welcome note to describe and introduce users to the club
+1. A welcome note to describe and introduce users to the club.
 2. A cover image which shows some ladies in a yoga session.
 
 ![Picture of five ladies during a yoga session](documentation/welcome.PNG)
@@ -33,14 +33,14 @@ Users of this website can find useful information as to what the club is about, 
 
   - The our forms of yoga section clearly explains to users the two forms of yoga that the club engages in which are:
 
-  1. Yoga as exercise and
+  1. Yoga as exercise
   2. Yoga as therapy
 
   ![Forms of yoga we take](documentation/Forms-of-Yoga.PNG)
 
 - Our meeting times and locations
   - This section contains the meeting times and locations and a clickable button "join us now!".
-  - the join us now button redirect users to the sign up page.
+  - The join us now button redirect users to the sign up page.
 
 ![Meeting times and locations](documentation/meeting-times.PNG)
 
@@ -68,9 +68,9 @@ Users of this website can find useful information as to what the club is about, 
 
 ---
 
-- I tested the page works on different browsers: Google chrome. Mozilla Firefox and Microsoft edge.
+- I tested the page works on different browsers: Google chrome, Mozilla Firefox and Microsoft edge.
 
-- I tested the pages are responsive and works well on different screen sizes: Desktop, Laptop, Tablet, Mobile phone.
+- I tested the pages are responsive and works well on different screen sizes: Desktop, Laptop, Tablet and Mobile phone.
 
 * I tested all navigation work perfectly and redirects users to the right pages/sections.
 
@@ -123,4 +123,4 @@ Users of this website can find useful information as to what the club is about, 
 
 ---
 
-- All images in this project was taken from [Pexels](https://pexels.com)
+- All images and videos in this project was taken from [Pexels](https://pexels.com)
