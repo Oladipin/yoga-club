@@ -10,7 +10,7 @@ Users of this website can find useful information as to what the club is about, 
 
 ---
 
-- The Haeder
+- The Header
 
   - The header contains the name of the club "Yoga For Women" and the navigation links to take users to different pages and sections of the website.
   - It has a default background and a font of Montserrat.
@@ -33,12 +33,12 @@ Users of this website can find useful information as to what the club is about, 
 
   - The our forms of yoga section clearly explains to users the two forms of yoga that the club engages in which are:
 
-  1. yoga as exercise and
-  2. yoga as therapy
+  1. Yoga as exercise and
+  2. Yoga as therapy
 
   ![Forms of yoga we take](documentation/Forms-of-Yoga.PNG)
 
-- Our meeting times and location
+- Our meeting times and locations
   - This section contains the meeting times and locations and a clickable button "join us now!".
   - the join us now button redirect users to the sign up page.
 
@@ -68,13 +68,13 @@ Users of this website can find useful information as to what the club is about, 
 
 ---
 
-- I tested the page works on different browsers: Google chrome. Moxilla Firefox and Microsoft edge.
+- I tested the page works on different browsers: Google chrome. Mozilla Firefox and Microsoft edge.
 
-* I tested the pages are responsive and works well on different screen sizes: Desktop, Laptop, Tablet, Mobile phone.
+- I tested the pages are responsive and works well on different screen sizes: Desktop, Laptop, Tablet, Mobile phone.
 
-- I tested all navigation work perfectly and redirects users to the right pages/sections.
+* I tested all navigation work perfectly and redirects users to the right pages/sections.
 
-* I tested the form inputs works properly and it requires data entry in all fields.
+- I tested the form inputs works properly and it requires data entry in all fields.
 
 ### Validator Testing
 
